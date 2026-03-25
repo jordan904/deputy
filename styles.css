@@ -430,7 +430,7 @@ h3 {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url('4956096636227429051.webp') center/cover no-repeat;
+  background: url('1737362638575776023.webp') center/cover no-repeat;
 }
 
 .hero-overlay {
@@ -1589,7 +1589,7 @@ a.contact-item:focus-visible {
 
   @media (prefers-reduced-motion: no-preference) {
     .marquee-track {
-      animation-duration: 16s;
+      animation-duration: 22s;
     }
   }
 }
