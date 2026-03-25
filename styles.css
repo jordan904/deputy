@@ -1589,7 +1589,7 @@ a.contact-item:focus-visible {
 
   @media (prefers-reduced-motion: no-preference) {
     .marquee-track {
-      animation-duration: 22s;
+      animation-duration: 16s;
     }
   }
 }
